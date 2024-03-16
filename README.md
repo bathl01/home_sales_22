@@ -18,17 +18,18 @@ The average price for a 4 bedroom house was fairly stable from year to year from
 
 __What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.__
 
+
         +----------+--------+---------+-------------+
         |date_built|bedrooms|bathrooms|AVERAGE_PRICE|
         +----------+--------+---------+-------------+
         |      2010|       3|        3|    292859.62|
-        |      2015|       3|        3|     288770.3|
-        |      2012|       3|        3|    293683.19|
-        |      2014|       3|        3|    290852.27|
         |      2011|       3|        3|    291117.47|
-        |      2017|       3|        3|    292676.79|
+        |      2012|       3|        3|    293683.19|
         |      2013|       3|        3|    295962.27|
+        |      2014|       3|        3|    290852.27|
+        |      2015|       3|        3|     288770.3|
         |      2016|       3|        3|    290555.07|
+        |      2017|       3|        3|    292676.79|
         +----------+--------+---------+-------------+
 
 The average price for a 3 bedroom home with 3 bathrooms was fairly stableno matter what year it was built in.  There is no linear regresion from year to year the house was built in.
@@ -38,15 +39,16 @@ __What is the average price of a home for each year the home was built, that has
         +----------+--------+---------+------+-------------+
         |date_built|bedrooms|bathrooms|floors|AVERAGE_PRICE|
         +----------+--------+---------+------+-------------+
-        |      2014|       3|        3|     2|    298264.72|
-        |      2016|       3|        3|     2|     293965.1|
-        |      2013|       3|        3|     2|    303676.79|
-        |      2011|       3|        3|     2|    276553.81|
         |      2010|       3|        3|     2|    285010.22|
-        |      2015|       3|        3|     2|    297609.97|
+        |      2011|       3|        3|     2|    276553.81|
         |      2012|       3|        3|     2|    307539.97|
+        |      2013|       3|        3|     2|    303676.79|
+        |      2014|       3|        3|     2|    298264.72|
+        |      2015|       3|        3|     2|    297609.97|
+        |      2016|       3|        3|     2|     293965.1|
         |      2017|       3|        3|     2|    280317.58|
         +----------+--------+---------+------+-------------+
+
 
 The addition of the 2 floors and square footage to the 3 bedroom/3 bathroom data increased the Average price for each year.  Again for this period of time there is no linear increase or decrease observable.
 
